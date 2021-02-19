@@ -190,5 +190,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0xEe32Ef531e4E5449dA39cEF5D04Df1010ff8f60C.png"
-  }
+  },
+  {
+    "name": "Bollo Token",
+    "address": "0x1921168344840d1ca5acd82e8815f24582d4ad27",
+    "symbol": "bolo",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x1921168344840d1ca5acd82e8815f24582d4ad27.png"
+  }  
 ]
